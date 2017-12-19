@@ -1,7 +1,7 @@
 # datapixx
 Python wrapper for the DATAPixx cross-platform low-level C programming library
 
-Documentation of the python functions can be found in pydatapixx.c, and can be accessed in python with the standard help framework, e.g. 'help datapixx'.
+Documentation of the python functions can be found in datapixx.c, and can be accessed in python with the standard help framework, e.g. 'help datapixx'.
 
 To compile, run make
 
